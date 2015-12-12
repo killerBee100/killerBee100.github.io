@@ -1,0 +1,72 @@
+html {
+	background-image: url(son.png);
+	background-color: orange;
+}
+
+h1 {
+	color:red;
+	text-align : center;
+	border-style: dashed;
+	border-width: 5px;
+	margin-left : 35px;
+	margin-right : 35px;
+	padding-top : 20px;
+	padding-bottom : 20px;
+	background-color : blue;
+		
+}
+
+p {
+	color : red;
+
+}
+#mainContent{
+		margin-left: 205px;
+		margin-right: 205px;
+}
+	
+}
+html {
+	background : green;
+}
+.song{
+	display : block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mysong{
+	text-align : center;
+}
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width: 130px;
+	background-color: white;
+	position: fixed;
+	
+}
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	color: black;
+	padding-left: 16px;
+	padding-top: 8px;
+	padding-bottom:8px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+nav ul li a:hover {
+	background-color: #555;
+	color: #fff;
+	
+}
+
+.active {
+	background-color: #4CAF50;
+	color: #fff;
+}
+
+
