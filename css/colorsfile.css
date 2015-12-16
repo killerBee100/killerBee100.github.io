@@ -65,12 +65,14 @@ nav ul li a {
 	padding-bottom:8px;
 	border-width: 1px;
 	border-style: solid;
+	transition: color 1.35s;
+	transition: background-color 1.35s;
+	
 }
 
 nav ul li a:hover {
 	background-color: #555;
 	color: #fff;
-	
 }
 
 .active {
