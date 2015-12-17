@@ -17,8 +17,12 @@ h1 {
 		
 }
 
+h2{
+	color: red;
+	font-family: 'Imprint MT Shadow',cursive;
+}
 p {
-	color : red;
+	color: red;
 
 }
 #mainContent{
@@ -46,7 +50,10 @@ video{
 .mysong{
 	text-align : center;
 }
-
+ul {
+	list-style-type: none;
+	font-family: 'Chaparral Pro Light',cursive;
+}
 nav ul{
 	list-style-type:none;
 	margin:0;
